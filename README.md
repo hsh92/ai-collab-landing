@@ -1,5 +1,7 @@
 # 실무에 바로 쓰는 AI 협업 — 모바일 랜딩 페이지
 
+[![Repository](https://img.shields.io/badge/GitHub-ai--collab--landing-181717?logo=github)](https://github.com/hsh92/ai-collab-landing)
+
 직장인을 위한 AI 실무 코칭·협업 방법을 소개하는 **모바일 우선** 개인 브랜딩 랜딩 페이지입니다.  
 HTML, CSS, JavaScript만 사용하며 별도 빌드 도구 없이 바로 열 수 있습니다.
 
